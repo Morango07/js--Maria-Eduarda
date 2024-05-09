@@ -1,6 +1,6 @@
-Bem vindo a minha página Github 💜
+# *Bem vindo a minha página Github 💜*
 
-Meu nome é Maria Eduarda
+*Meu nome é Maria Eduarda*
 
 -Estou estudando no Alura
 
@@ -8,6 +8,6 @@ Meu nome é Maria Eduarda
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+>*Você pode entrar em contato comigo 📫*
 
-00001095663008SP@al.educacao.sp.gov.br
+*001095663008SP@al.educacao.sp.gov.br*
